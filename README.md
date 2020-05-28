@@ -1,12 +1,12 @@
 <img src="icon.png" align="right" />
 
-# ExpressJS Weather Finder
+# ExpressJS Music Player
 
-> Membangun Simple Weather App berbasis NodeJS framework ExpressJS dengan template engine hbs dan penyedia weather API openweathermap.org
+> Membangun Simple Music Player berbasis NodeJS dengan template engine hbs
 
 ## Demo
 
-Demo aplikasi dapat diakses dengan link berikut: [Weather Finder](https://agile-island-52063.herokuapp.com/)
+Demo aplikasi dapat diakses dengan link berikut: [Rifandani Playlist](https://rifandani-playlist.herokuapp.com/)
 
 ## Prerequisites
 
@@ -17,10 +17,10 @@ Demo aplikasi dapat diakses dengan link berikut: [Weather Finder](https://agile-
 
 ```
 # clone repository
-$ git clone https://github.com/rifandani/weather-finder.git
+$ git clone https://github.com/rifandani/music-player.git
 
 # masuk ke app's directory project ini
-$ cd my-project
+$ cd music-app
 
 # install app's dependencies
 $ npm install
@@ -30,7 +30,7 @@ $ npm install
 
 ```
 # jalankan aplikasi mode development dengan package nodemon
-$ npm run dev
+$ npm start
 ```
 
 Lalu, buka localhost dengan browser anda.
